@@ -1,0 +1,114 @@
+#page-home {
+    /*Colocar imagem como fundo*/
+    background: url(../assets/home-background.svg) no-repeat;
+    /*Definir uma altura para a page home ocupar e assim a inagem de fundo aparecer compĺeta*/
+    height: 100vh;
+    /*Posição em relação aos eixos x e y em que o background (fundo) ficará*/
+    background-position: 35vw bottom ;
+}
+
+#page-home .content {
+    /*largura*/
+    width: 90%;
+    /*máximo de largura que a caixa de class content irá ocupar*/
+    max-width: 1100px;
+    /*Margem dos 4 lados da caixa*/
+    margin: 0 auto;
+
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}   
+
+#page-home header {
+    
+    /*Os filhos ficarão um ao lado do outro*/
+    display: flex;
+    /*Alinha os filhos no centro*/
+    align-items: center;
+    /*Justificar os filhos dentro da caixa colocando um espaço entre eles*/
+    justify-content: space-between;
+
+    margin-top: 48px;
+}
+
+#page-home header a {
+    display: flex;
+    color: var(--title-color);
+    font-weight: 700;
+
+}
+
+#page-home header a span {
+    display: flex;
+    background-image: url(../assets/log-in.svg);
+
+    width: 20px;
+    height: 20px;
+
+    margin-right: 10px;
+}
+
+#page-home main {
+    max-width: 560px;
+
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+}
+
+#page-home main h1 {
+    font-size: 54px;
+}
+
+#page-home main p {
+    font-size: 24px;
+    line-height: 38px;
+    margin-top: 24px;
+}
+
+#page-home main a {
+    width: 100%;
+    max-width: 360px ;
+    height: 72px;
+
+    background: var(--primary-color);
+    border-radius: 8px 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+
+    transition: 400ms;
+}
+
+#page-home main a:hover {
+    background-color: #2fb86e;
+}
+
+#page-home main a span {
+    width: 72px;
+    height: 72px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.08);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page-home main a span::after {
+    content: "";
+
+    background-image: url(../assets/search.svg);
+    width: 20px;
+    height: 20px;
+}
+
+#page-home main a  strong {
+    flex: 1;
+    text-align: center;
+    color: white;
+}
