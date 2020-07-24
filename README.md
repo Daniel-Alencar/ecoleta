@@ -2,7 +2,7 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/Readme/banner.png" />
 </h1>
 <h4 align="center"> 
-	🚧  Projeto em término de construção...  🚧
+	🚧  Projeto em término de construção  🚧
 </h4>
 
 ## 💻 Sobre o projeto
@@ -34,7 +34,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] Exclusão de um ponto de coleta
 - [ ] Ao clicar na logo, voltar para home
 - [ ] Detalhes gráficos
+
     - [ ] Mostrar a mãozinha do mouse ao passar o mouse em cima do botão **Cadastrar ponto de coleta** e **Buscar**
     
-... Abra uma issue e me mande uma sugestão :)
+Abra uma issue e me mande uma sugestão :)
 
