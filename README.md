@@ -40,7 +40,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 Abra uma issue e me mande uma sugestão :)
-
-
-
-
