@@ -31,8 +31,6 @@ server.get("/", function(req, res) {
 
 
 
-
-
 // página de create-point
 server.get("/create-point", function(req, res) {
 
