@@ -64,8 +64,10 @@
 
 #page-home main p {
     font-size: 24px;
-    line-height: 38px;
+    line-height: 28px;
     margin-top: 24px;
+
+    color: #616b66;
 }
 
 #page-home main a {
