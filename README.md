@@ -42,6 +42,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Instalar o git bash (somente se estiver no windows) e selecione-o em seu terminal
 - Instalar o nodeJS
 	- Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada através dos seguintes comandos no terminal (selecionado com o bash):
+
+```sh
+# if yum is your package manager
+$ sudo yum install github-desktop
+
+# if dnf is your package manager
+$ sudo dnf install github-desktop
+```
 	node -v
 	npm -v
 - npm install express (para instalar o express)
