@@ -38,11 +38,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
     - [ ] Mostrar a mãozinha do mouse ao passar o mouse em cima do botão **Cadastrar ponto de coleta** e **Buscar**
 
 
-## Passo a passo para a vizualiazação no seu computador
-- Instalar o git bash (somente se estiver no windows) e selecione-o em seu terminal
-- Instalar o nodeJS
+## Passo a passo para a visualiazação da aplicação no seu computador
+- Instale o git bash (somente se estiver no windows) e selecione-o em seu terminal
+- Instale o nodeJS
+- Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada (através do terminal com o bash)
 ```sh
-# Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada
 node -v
 npm-v
 ```
