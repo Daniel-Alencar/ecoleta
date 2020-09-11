@@ -36,7 +36,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ ] Detalhes gráficos
 
     - [ ] Mostrar a mãozinha do mouse ao passar o mouse em cima do botão **Cadastrar ponto de coleta** e **Buscar**
-    
 
+
+## Passo a passo para a vizualiazação no seu computador
+- Instalar o git bash (somente se estiver no windows) e selecione-o em seu terminal
+- Instalar o nodeJS
+	- Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada através dos seguintes comandos no terminal (selecionado com o bash):
+	node -v
+	npm -v
+- npm install express (para instalar o express)
+- npm install nunjucks (para habilitar o nunjucks em nossa aplicação)
+- npm install sqlite3 (para habilitar o sqlite3 em nossa aplicação)
 
 Abra uma issue e me mande uma sugestão :)
