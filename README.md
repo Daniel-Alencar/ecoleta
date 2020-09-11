@@ -41,20 +41,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Passo a passo para a visualiazação da aplicação no seu computador
 - Instale o git bash (somente se estiver no windows) e selecione-o em seu terminal
 - Instale o nodeJS
-- Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada (através do terminal com o bash)
-```sh
-node -v
-npm-v
-```
-- Instalar o express (através do terminal com o bash) 
+	- Verifique a versão do nodeJS (através do terminal com o bash)
+	```sh
+	node -v
+	```
+	- Verifique a versão do node package manager (através do terminal com o bash)
+	```sh
+	npm-v
+	```
+- Instale o express (através do terminal com o bash) 
 ```sh
 npm install express
 ```
-- Instalar o nunjucks (através do terminal com o bash)
+- Instale o nunjucks (através do terminal com o bash)
 ```sh
 npm install nunjucks
 ```
-- Instalar o sqlite3 (através do terminal com o bash)
+- Instale o sqlite3 (através do terminal com o bash)
 ```sh
 npm install sqlite3
 ```
