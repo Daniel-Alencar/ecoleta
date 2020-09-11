@@ -42,12 +42,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Instalar o git bash (somente se estiver no windows) e selecione-o em seu terminal
 - Instalar o nodeJS
 ```sh
-# Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada através dos seguintes comandos no terminal (selecionado com o bash)
-$ node -v
-$ npm-v
+# Verifique se a instalação foi concluída com sucesso, verificando as versão da aplicação instalada 
+# através dos seguintes comandos no terminal (selecionado com o bash)
+
+node -v
+npm-v
 ```
-- npm install express (para instalar o express)
-- npm install nunjucks (para habilitar o nunjucks em nossa aplicação)
-- npm install sqlite3 (para habilitar o sqlite3 em nossa aplicação)
+- Instalar o express (através do terminal com o bash) 
+- Instalar o nunjucks (através do terminal com o bash)
+- Instalar o sqlite3 (através do terminal com o bash)
 
 Abra uma issue e me mande uma sugestão :)
