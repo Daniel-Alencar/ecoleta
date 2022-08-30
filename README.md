@@ -25,18 +25,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-- [Node.js][nodejs]
-
-### Features
-
-- [x] Cadastro de um ponto de coleta
-- [x] Visualização de um ponto de coleta através do nome da cidade
-- [ ] Exclusão de um ponto de coleta
-- [ ] Ao clicar na logo, voltar para home
-- [ ] Detalhes gráficos
-
-    - [ ] Mostrar a mãozinha do mouse ao passar o mouse em cima do botão **Cadastrar ponto de coleta** e **Buscar**
-
+- [Node.js](https://nodejs.org/en/download/)
 
 ## Passo a passo para a visualiazação da aplicação no seu computador
 - Instale o git bash (somente se estiver no windows) e selecione-o em seu terminal
